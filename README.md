@@ -1,117 +1,56 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jannatul Mahiya</h1>
-<h3 align="center" style="padding:15px 10px 50px 10px;">I’m a Junior Mern Stack Web Developer</h3>
+### Hi there 👋, I am Mahi Maliha
+#### I am a Full Stack Web Developer
+![I am a Full Stack Web Developer](https://camo.githubusercontent.com/7f3718fa8d0ac3487a41a550bb63458ae50055aad222b32d321f93d210cdd3bd/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4b32574c4d5445784c79696461374f522e676966)
 
-<br/>
-<br/>
+A dedicated and hardworking individual with a Bachelor's degree in Computer Science. Being well aware of the challenges and demands of this ever-evolving sector, I am offering my efficient and diligent services to fulfill the requirements of the IT industry. I aim at keeping myself up-to-date with the on-going developments in this field. Therefore, through my growing knowledge as well as sharp focus, I intend to successfully achieve my career goals. Expert in React.js, Node.js, Express, MongoDB, Firebase. I am stydying on Bachelor of Science in Computer Science & Engineering at Daffodil International University. Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them
 
-## 🙋 About Me
+Skills: JavaScript , React , Node , Express , MongoDB , Firebase , Html , CSS , Bootstrap , Material Ui
 
-- I’m Jannatul Mahiya. I’m a Junior Mern Stack Web Developer. As a Mern Stack Developer, creativity and enthusiasm are my choices. I love learning new things and working on them.
+- 🌱 I’m currently learning Programming Hero 
+- 💬 Ask me about REACT / JS / HTML / CSS/node.js 
+- 📫 How to reach me:  mahi.maliha.cse1@gmail.com
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatematujjahira)](https://github.com/anuraghazra/github-readme-stats)
 
-- I have comfortable skill in —- HTML-5, CSS, JavaScript, ES6, Bootstrap-5, Tailwind CSS, Sass, Rest API, React JS, React Bootstrap, React Router, React Hook Form, Firebase Authentication, Mongo-DB, Material UI, Node JS, React Native, React Redux, Express Js, Hooks, Contexts, Payment Gateway System.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatematujjahira&show_icons=true)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Fatematujjahira)  
 
-- Email: **jannatul15-9342@diu.edu.bd**
-
-- **[LinkedIn: /jannatul-mahiya-mutasha/](https://www.linkedin.com/in/jannatul-mahiya-mutasha/)**
-  
- <h3 align="center" style="padding:15px 10px 40px 10px;"></h3> 
-
-<br/>
-<br/>
+![Profile views](https://gpvc.arturio.dev/Fatematujjahira) 
 
 
-## Recent Projects
+<h1 align="center">Hi 👋, I'm Mahi Maliha</h1>
+<h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahimaliha&label=Profile%20views&color=0e75b6&style=flat" alt="mahimaliha" /> </p>
 
-- [**[necklace.com](https://necklace-com.web.app/)**] Necklace is a niche site that deals with selling different types of necklaces.
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahimaliha" alt="mahimaliha" /></a> </p>
 
-- [**[minor-hotel.com](https://minor-hotel.web.app/)**] Minor is a hotel booking service site.
+- 🌱 I’m currently learning **JavaScript**
 
-- [**[medicare.com](https://medicare-webs.web.app/)**] Medicare is a hospital service site
-  
- <h3 align="center" style="padding:15px 10px 40px 10px;"></h3> 
+- 💬 Ask me about **JavaScript , React , Node , Express , MongoDB**
 
-<br/>
-<br/>
+- 📫 How to reach me **mahi.maliha.cse1@gmail.com**
 
-
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/jannatul-mahiya-mutasha/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/jannatulmahiya.maliha"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
-<a href = ""><img src="https://img.icons8.com/fluency/48/000000/web.png"/></a>
-
-</p>
-<h3 align="center" style="padding:15px 10px 30px 10px;"></h3> 
-
-<br/>
-<br/>
-
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <!-- <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <!-- <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <!-- <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  -->
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <!-- <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> -->
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <!-- <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>  -->
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-<h3 align="center" style="padding:15px 10px 40px 10px;"></h3> 
-
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://github.com/moniramoni/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="moniramoni's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=moniramoni&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<a href="https://linkedin.com/in/jannatul-mahiya-mutasha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jannatul-mahiya-mutasha" height="30" width="40" /></a>
 </p>
 
-<h3 align="center" style="padding:15px 10px 40px 10px;"></h3> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 
-<br/>
-<br/>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahimaliha&show_icons=true&locale=en" alt="mahimaliha" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahimaliha&" alt="mahimaliha" /></p>
 
 
-## 📊 My Github Stats
-
-  <a href="https://github.com/moniramoni/github-readme-stats"><img alt="moniramoni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=moniramoni&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/moniramoni/github-readme-stats"><img alt="moniramoni's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moniramoni&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<br/>
-<br/>
-<br/>
-
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=moniramoni&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 
-<!-- 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a> -->
+
+
+
+
