@@ -6,7 +6,7 @@
 A dedicated and hardworking individual with a Bachelor's degree in Computer Science. Being well aware of the challenges and demands of this ever-evolving sector, I am offering my efficient and diligent services to fulfill the requirements of the IT industry. I aim at keeping myself up-to-date with the on-going developments in this field. Therefore, through my growing knowledge as well as sharp focus, I intend to successfully achieve my career goals. Expert in React.js, Node.js, Express, MongoDB, Firebase. I am stydying on Bachelor of Science in Computer Science & Engineering at Daffodil International University. Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them
 <br>
 
-Skills: JavaScript , React , Node , Express , MongoDB , Firebase , Html , CSS , Bootstrap , Material Ui
+Skills: JavaScript , React , Node , Express , MongoDB , Firebase , Html5 , CSS3 , Bootstrap , Material Ui
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahimaliha&label=Profile%20views&color=0e75b6&style=flat" alt="mahimaliha" /> </p>
 <br>
