@@ -1,7 +1,7 @@
 
 ![I am  a Full Stack Web Developer](https://camo.githubusercontent.com/7f3718fa8d0ac3487a41a550bb63458ae50055aad222b32d321f93d210cdd3bd/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4b32574c4d5445784c79696461374f522e676966)
 <h1 align="center">Hi 👋, I'm Mahi Maliha</h1>
-<h4 align="center">I'm a passionate Full Stack Web Developer</h4>
+<h4 align="center">I'm  passionate Full Stack Web Developer</h4>
 
 A dedicated and hardworking individual with a Bachelor's degree in Computer Science. Being well aware of the challenges and demands of this ever-evolving sector, I am offering my efficient and diligent services to fulfill the requirements of the IT industry. I aim at keeping myself up-to-date with the on-going developments in this field. Therefore, through my growing knowledge as well as sharp focus, I intend to successfully achieve my career goals. Expert in React.js, Node.js, Express, MongoDB, Firebase. I am stydying on Bachelor of Science in Computer Science & Engineering at Daffodil International University. Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them
 <br>
